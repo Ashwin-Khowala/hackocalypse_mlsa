@@ -46,12 +46,6 @@ cd Musicure.ai
 # Install dependencies
 npm install
 
-# Start the backend server
-npm run server
-
-# Start the frontend development server
-npm start
-```
 
 ## 🤝 **Contributing**
 Feel free to open issues or submit pull requests for improvements.
