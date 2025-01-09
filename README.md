@@ -38,7 +38,7 @@ Musicure.ai is an innovative platform designed to help individuals manage stress
 ## 📥 **Installation & Setup**
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/Musicure.ai.git
+git clone https://github.com/Ashwin-Khowala/hackocalypse_mlsa
 
 # Navigate to the project folder
 cd Musicure.ai
